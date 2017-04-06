@@ -5,7 +5,7 @@
         public const string Read = "marketing:read",
             Create = "marketing:create",
             Access = "marketing:access",
-            Update = "marketing:update",
-            Delete = "marketing:delete";
+            Update = "marketing:updatexx",
+            Delete = "marketing:deletepp";
     }
 }
